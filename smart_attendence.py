@@ -4,7 +4,7 @@ version: 4.3.4
 Copyright © 2021  - by vip 
 '''
 
-#   ''pip install -r requirements.txt'' 
+#   ''pip install -r require_smart.txt'' 
 
 import xlrd
 import xlwt
